@@ -1,3 +1,4 @@
+#修改紀錄 250505 14:22
 from omni.isaac.kit import SimulationApp
 CONFIG = {
     "headless": False,
